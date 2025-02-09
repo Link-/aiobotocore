@@ -229,3 +229,5 @@ aiobotocore and botocore can support use::
 
 If you only need awscli and not boto3 (or vice versa) you can just install one extra or
 the other.
+
+RUN CI
