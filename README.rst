@@ -231,3 +231,4 @@ If you only need awscli and not boto3 (or vice versa) you can just install one e
 the other.
 
 RUN CI
+RUN CI again
